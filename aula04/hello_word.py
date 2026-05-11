@@ -1,0 +1,5 @@
+print("Olá mundo!")
+print("========================")
+print(13 + 29)
+print(258 - 344)
+input("Tecle ENTER para fechar a tela...")
